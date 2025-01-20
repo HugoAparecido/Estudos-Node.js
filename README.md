@@ -17,3 +17,8 @@ npm install express --save
 ```
 npm install router
 ```
+
+- Para conectar com o mysql
+```
+npm install mysql2 --save
+```
