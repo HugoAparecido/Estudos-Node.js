@@ -130,3 +130,5 @@ dist
 .pnp.*
 CFBCursos/Aula04/package-lock.json
 CFBCursos/Aula05/teste.txt
+CFBCursos/Aula07/package-lock.json
+CFBCursos/Aula07/package.json
