@@ -22,3 +22,8 @@ npm install router
 ```
 npm install mysql2 --save
 ```
+
+- Para trabalhar com upload de arquivos
+```
+npm install formidable
+```
